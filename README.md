@@ -1,194 +1,191 @@
-#            Mahi Jain 
-   AI/ML Student & Aspiring Engineer
+ 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    MAHI JAIN | GITHUB PROFILE                  -->
+<!--          ROYAL PLUM • ELECTRIC MAGENTA • CHAMPAGNE              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,40:29231D,75:8B7962,100:F5EBDD&height=230&section=header&text=Mahi%20Jain&fontSize=60&fontColor=FFF9F0&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%7C%20Cybersecurity%20%7C%20Software%20Development&descAlignY=60&descSize=17" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:160D25,35:4B145B,70:A52CCB,100:E8C68D&text=MAHI%20JAIN&fontSize=65&fontColor=FFF5E9&fontAlignY=38&animation=fadeIn&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20MACHINE%20LEARNING%20%7C%20CYBERSECURITY&descSize=15&descAlignY=59&descColor=F9D9EF"/>
 
-</div>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=23&duration=3000&pause=900&color=F05AD5&center=true&vCenter=true&width=800&lines=Exploring+Artificial+Intelligence;Learning+Machine+Learning+%26+Deep+Learning;Discovering+the+World+of+Cybersecurity;Turning+Curiosity+Into+Code;Building+Today.+Innovating+Tomorrow." alt="Typing animation"/>
 
-### B.Tech Computer Science Engineering | Artificial Intelligence & Machine Learning
+<br/>
 
-*Exploring intelligence. Understanding security. Building through code.*
+**B.Tech Computer Science Engineering | Artificial Intelligence & Machine Learning**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahiroshanjain-sys)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahi-jain-10595a407/)
+*Curious mind. Analytical thinking. Continuous innovation.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-160D25?style=for-the-badge&logo=github&logoColor=E8C68D)](https://github.com/mahiroshanjain-sys)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-A52CCB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahi-jain-10595a407/)
 
 </div>
 
 ---
 
-## 👩‍💻 Who Am I?
+## ✦ ABOUT ME
 
-Hello! I'm **Mahi Jain**, a B.Tech Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.
+Hello! I'm **Mahi Jain**, an undergraduate Computer Science student specializing in Artificial Intelligence and Machine Learning.
 
-I'm passionate about understanding how technology works beneath the surface — from programming fundamentals and intelligent algorithms to cybersecurity and data-driven systems.
+I'm passionate about understanding how technology works beneath the surface — from programming fundamentals and intelligent algorithms to machine learning systems and cybersecurity.
 
-My interests lie at the intersection of **Artificial Intelligence, Machine Learning, Deep Learning, and Cybersecurity**.
+Currently, I'm strengthening my programming foundations while exploring the intersection of AI, data, automation and digital security.
 
-Currently, I'm strengthening my programming foundation, exploring new technologies, and building projects that help me transform theoretical knowledge into practical skills.
+My approach is simple:
 
-I believe in learning by doing, understanding concepts deeply, and continuously improving through experimentation.
+> Learn the fundamentals. Experiment with ideas. Build meaningful projects. Keep improving.
 
-> "Don't just learn how technology works. Learn how to build it, question it, and make it better."
+### What I'm exploring
 
----
-
-## 🚀 My Learning Journey
-
-| Domain | Current Focus |
-|---|---|
-| Artificial Intelligence | Understanding AI fundamentals and applications |
-| Machine Learning | Learning algorithms, data processing and model development |
-| Deep Learning | Exploring neural networks and their architectures |
-| Cybersecurity | Building foundational knowledge of security concepts |
-| Web Development | Creating responsive websites using HTML, CSS and JavaScript |
-| Programming | Strengthening problem-solving with Python and C |
-| Databases | Learning SQL and database fundamentals |
+- Artificial Intelligence and Machine Learning
+- Deep Learning and neural networks
+- Cybersecurity and information security fundamentals
+- Python programming and problem-solving
+- Web development and database management
+- Data-driven applications and automation
 
 ---
 
-## 🛠️ Tech Stack
+## ✦ CURRENT TECHNOLOGY STACK
 
 ### Programming Languages
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,js,html,css,mysql&theme=dark" />
-</p>
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-4B145B?style=for-the-badge&logo=python&logoColor=FFE3A8)
+![C](https://img.shields.io/badge/C-A52CCB?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-DB55B9?style=for-the-badge&logo=javascript&logoColor=160D25)
+![SQL](https://img.shields.io/badge/SQL-8D63B8?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
 
 ### Web Development
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark" />
-</p>
+<div align="center">
 
-### Tools & Development Environment
+![HTML5](https://img.shields.io/badge/HTML5-4B145B?style=for-the-badge&logo=html5&logoColor=FFE3A8)
+![CSS3](https://img.shields.io/badge/CSS3-A52CCB?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-DB55B9?style=for-the-badge&logo=javascript&logoColor=160D25)
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-</p>
+</div>
 
-### Exploring & Learning
+### Areas of Interest
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch&theme=dark" />
-</p>
+<div align="center">
 
-*The last group represents technologies I plan to explore, not tools I currently claim project experience with.*
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-4B145B?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-A52CCB?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-DB55B9?style=flat-square)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-8D63B8?style=flat-square)
+![Data Science](https://img.shields.io/badge/Data%20Science-BF91C9?style=flat-square)
 
----
-
-## 💻 Featured Projects
-
-### 1. Tic-Tac-Toe
-
-**A Python-based interactive game**
-
-A beginner programming project developed to explore Python programming, game logic and application structure.
-
-- Implemented game functionality using Python.
-- Practiced program organization and execution.
-- Explored the fundamentals of building interactive applications.
-
-**Technology:** Python
-
-[View Repository](https://github.com/mahiroshanjain-sys/tictactoe)
+</div>
 
 ---
 
-### 2. Business Automation Toolkit
+## ✦ FEATURED PROJECTS
 
-**Python Modules & Packages Project**
+These are two of my current public repositories. I'm using them to develop practical programming experience and strengthen my development fundamentals.
 
-A Python project exploring modular programming and reusable functionality through business-oriented demonstrations.
+### 01. Tic Tac Toe
 
-- Organized functionality into separate modules and packages.
-- Includes demonstrations for analytics, employee, finance, inventory and sales.
-- Explores structured programming and code reusability.
+**A Python-based game project**
 
-**Technology:** Python
+A classic Tic Tac Toe implementation developed as a programming project.
 
-[View Repository](https://github.com/mahiroshanjain-sys/BusinessAutomationToolkit)
+- Practising programming logic and problem-solving.
+- Exploring game implementation through Python.
+- Strengthening foundational coding skills.
+
+[![View Repository](https://img.shields.io/badge/VIEW%20PROJECT-A52CCB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahiroshanjain-sys/tictactoe)
+
+### 02. Business Automation Toolkit
+
+**Python modules and packages**
+
+A Python project focused on exploring modules and packages and their role in building reusable functionality.
+
+- Learning modular programming.
+- Understanding Python packages.
+- Exploring how programming can simplify repetitive tasks.
+
+[![View Repository](https://img.shields.io/badge/VIEW%20PROJECT-4B145B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahiroshanjain-sys/BusinessAutomationToolkit)
 
 ---
 
-## 🎓 Certifications & Learning Achievements
+## ✦ CERTIFICATIONS & RECOGNITION
 
-| Certification | Issuing Organization |
+Continuously expanding my knowledge through structured learning, certifications and research.
+
+| Certification / Achievement | Issuing Organization |
 |---|---|
-| Generative AI & Microsoft Copilot Application | Microsoft |
-| Microsoft Azure AI Foundations & Computer Vision | Microsoft |
 | CS50's Introduction to Artificial Intelligence with Python | Harvard University |
+| Microsoft Azure AI Foundations & Computer Vision | Microsoft |
+| Generative AI & Microsoft Copilot Application | Microsoft |
 | AI for Everyone: Master the Basics | edX |
 | IT Fundamentals for Business Professionals: Enterprise Systems | edX |
-| Drone Software Technician | Nasscom |
+| Drone Software Technician – Skill India (NSDC) | NASSCOM |
+| Artificial Intelligence and Economic Transformation Through Mathematical Modeling | International Journal of Innovative Research in Technology |
 
-### Research & Publications
+**Research and Publication**
 
-- Artificial Intelligence and Economic Transformation Through Mathematical Modeling — International Journal of Innovative Research in Technology.
-- Stop Being a Mirror: A Conceptual Framework for "Trampoline Listening" in Interpersonal Communication — International Journal of Psychology Sciences.
+- Published research work: *Stop Being a Mirror: A Conceptual Framework for "Trampoline Listening" in Interpersonal Communication*.
+- Published in the International Journal of Psychology Sciences.
 
-[Explore my LinkedIn credentials](https://www.linkedin.com/in/mahi-jain-10595a407/)
+[![View LinkedIn Credentials](https://img.shields.io/badge/VIEW%20CERTIFICATIONS-E8C68D?style=for-the-badge&logo=linkedin&logoColor=160D25)](https://www.linkedin.com/in/mahi-jain-10595a407/)
 
 ---
 
-## 🎯 What Makes Me Different?
+## ✦ WHAT MAKES ME DIFFERENT
 
-I am building my technical foundation around three interconnected areas:
+I believe becoming a good engineer is not just about learning programming languages. It's about understanding problems, thinking logically and continuously improving.
 
-| Area | My Approach |
+| My Focus | My Approach |
 |---|---|
-| AI & ML | Understanding the logic and mathematics behind intelligent systems |
-| Cybersecurity | Developing a security-conscious approach to technology |
-| Software Engineering | Converting programming knowledge into practical applications |
-| Research | Exploring ideas beyond conventional classroom learning |
-| Continuous Learning | Experimenting, documenting and improving consistently |
+| Fundamentals | Building strong programming foundations |
+| AI & ML | Exploring intelligent systems and algorithms |
+| Cybersecurity | Developing security awareness alongside technical skills |
+| Problem Solving | Breaking complex problems into smaller steps |
+| Innovation | Turning theoretical concepts into practical projects |
+| Growth | Learning consistently and documenting progress |
 
 **My philosophy:**
 
-I don't want to limit myself to learning programming languages. I want to understand how intelligent systems are designed, how digital systems can be secured, and how software can solve meaningful problems.
+*Don't just learn what technology can do. Understand how, why and where it can make a difference.*
 
 ---
 
-## 📊 GitHub Activity
+## ✦ GITHUB STATISTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mahiroshanjain-sys&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahiroshanjain-sys&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mahiroshanjain-sys&show_icons=true&theme=radical&bg_color=160D25&title_color=F05AD5&icon_color=E8C68D&text_color=FFF5E9&border_color=713A83&hide_border=false"/>
 
-<img src="https://streak-stats.demolab.com?user=mahiroshanjain-sys&theme=tokyonight&hide_border=true" width="70%" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahiroshanjain-sys&layout=compact&theme=radical&bg_color=160D25&title_color=F05AD5&text_color=FFF5E9&border_color=713A83"/>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahiroshanjain-sys&theme=radical&background=160D25&ring=F05AD5&fire=E8C68D&currStreakLabel=F05AD5&sideLabels=FFF5E9&border=713A83"/>
 
 </div>
 
 ---
 
-## 🌱 Currently Working Towards
+## ✦ LET'S CONNECT
 
-- Strengthening Python and programming fundamentals.
-- Learning core Machine Learning algorithms.
-- Exploring Deep Learning and neural networks.
-- Building a foundation in Cybersecurity.
-- Developing practical web applications.
-- Creating meaningful projects and documenting my learning journey.
+I'm always interested in learning from others, exchanging ideas, collaborating on projects and exploring opportunities to grow in technology.
 
----
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with fellow students, developers, AI enthusiasts and people who enjoy exploring new technologies.
-
-Whether it's discussing Machine Learning, exploring Cybersecurity, collaborating on projects, or exchanging ideas — let's connect.
+If you're interested in AI/ML, cybersecurity, software development or innovative technology projects, let's connect!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahi-jain-10595a407/)
+[![LinkedIn](https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-A52CCB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahi-jain-10595a407/)
 
-[![GitHub](https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahiroshanjain-sys)
+[![GitHub](https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-4B145B?style=for-the-badge&logo=github&logoColor=E8C68D)](https://github.com/mahiroshanjain-sys)
 
-**Learning Today. Building Tomorrow.**
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:49318C,100:15112B&height=100&section=footer" width="100%" />
+**"Curiosity creates possibilities. Knowledge builds foundations. Innovation creates impact."**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E8C68D,40:A52CCB,75:4B145B,100:160D25&height=120&section=footer"/>
 
 </div>
+
