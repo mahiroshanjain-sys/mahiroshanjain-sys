@@ -3,8 +3,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5EBDD,50:E8DCC8,100:B6A58D&height=220&section=header&text=Mahi%20Jain&fontSize=58&fontColor=34312D&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%7C%20Cybersecurity%20%7C%20Software%20Engineering&descAlignY=58&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,40:29231D,75:8B7962,100:F5EBDD&height=230&section=header&text=Mahi%20Jain&fontSize=60&fontColor=FFF9F0&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%7C%20Cybersecurity%20%7C%20Software%20Development&descAlignY=60&descSize=17" width="100%" />
 
+</div>
 </div>
 
 ### B.Tech Computer Science Engineering | Artificial Intelligence & Machine Learning
