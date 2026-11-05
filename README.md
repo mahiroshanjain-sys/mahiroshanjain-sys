@@ -184,11 +184,11 @@ Whether it's discussing Machine Learning, exploring Cybersecurity, collaborating
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mahi-jain-10595a407/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-C5AD80?style=flat-square&logo=linkedin&logoColor=101010" />
+  <img src="https://img.shields.io/badge/LinkedIn-C5AD80?style=flat-square&logo=linkedin&logoColor=101010" />
 </a>
 
 <a href="https://github.com/mahiroshanjain-sys">
-  <img src="https://img.shields.io/badge/GitHub-Follow-34302A?style=flat-square&logo=github&logoColor=F5F0E6" />
+  <img src="https://img.shields.io/badge/GitHub-34302A?style=flat-square&logo=github&logoColor=F5F0E6" />
 </a>
 
 <br/>
