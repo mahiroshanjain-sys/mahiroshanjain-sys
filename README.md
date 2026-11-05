@@ -151,14 +151,19 @@ I don't want to limit myself to learning programming languages. I want to unders
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mahiroshanjain-sys&show_icons=true&theme=dark&bg_color=101010&title_color=C5AD80&text_color=E5E0D6&icon_color=C5AD80&hide_border=true&rank_icon=github" width="49%" />
+### GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahiroshanjain-sys&layout=compact&theme=dark&bg_color=101010&title_color=C5AD80&text_color=E5E0D6&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=mahiroshanjain-sys&show_icons=true&hide_border=true&bg_color=101010&title_color=C5AD80&text_color=E5E0D6&icon_color=C5AD80&cache_seconds=86400" width="70%" alt="GitHub Statistics" />
 
-<img src="https://streak-stats.demolab.com?user=mahiroshanjain-sys&theme=dark&background=101010&ring=C5AD80&fire=C5AD80&currStreakLabel=C5AD80&sideLabels=B8AD98&dates=8C8578&currStreakNum=F5F0E6&sideNums=E5E0D6&hide_border=true" width="70%" />
+### Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahiroshanjain-sys&layout=compact&hide_border=true&bg_color=101010&title_color=C5AD80&text_color=E5E0D6&cache_seconds=86400" width="55%" alt="Top Languages" />
+
+### Contribution History
+
+[View my GitHub contribution activity](https://github.com/mahiroshanjain-sys)
 
 </div>
-
 ---
 
 ## 🌱 Currently Working Towards
