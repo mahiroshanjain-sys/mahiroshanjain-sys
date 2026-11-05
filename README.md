@@ -153,12 +153,10 @@ I don't want to limit myself to learning programming languages. I want to unders
 
 ### GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=mahiroshanjain-sys&show_icons=true&hide_border=true&bg_color=101010&title_color=C5AD80&text_color=E5E0D6&icon_color=C5AD80&cache_seconds=86400" width="70%" alt="GitHub Statistics" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=mahiroshanjain-sys&show_icons=true&hide_border=true&bg_color=101010&title_color=C5AD80&text_color=E5E0D6&icon_color=C5AD80&cache_seconds=86400" width="70%" alt="GitHub Statistics" />
 
 ### Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahiroshanjain-sys&layout=compact&hide_border=true&bg_color=101010&title_color=C5AD80&text_color=E5E0D6&cache_seconds=86400" width="55%" alt="Top Languages" />
-
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mahiroshanjain-sys&layout=compact&hide_border=true&bg_color=101010&title_color=C5AD80&text_color=E5E0D6&cache_seconds=86400" width="55%" alt="Top Languages" />
 ### Contribution History
 
 [View my GitHub contribution activity](https://github.com/mahiroshanjain-sys)
