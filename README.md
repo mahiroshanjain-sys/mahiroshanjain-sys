@@ -107,6 +107,24 @@ A Python project exploring modular programming and reusable functionality throug
 
 [View Repository](https://github.com/mahiroshanjain-sys/BusinessAutomationToolkit)
 
+
+---
+
+### 3. Student Marks Analyzer
+
+**A Python-based academic data analysis and visualization tool**
+
+A Python project that transforms raw student examination records into clear statistical summaries and visual performance dashboards.
+
+- Processed and structured raw CSV examination datasets for accurate evaluation.
+- Calculated student totals, averages, pass/fail ratios, and subject-wise grade distributions.
+- Generated visual performance dashboards to highlight academic trends across subjects.
+
+**Technology:** Python
+
+[View Repository](https://github.com/mahiroshanjain-sys/Student_Marks_Analyzer)
+
+
 ---
 
 ## 🎓 Certifications & Learning Achievements
